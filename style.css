@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(217, 15%, 77%);
+    font-family: 'Figtree', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}
+.d2{
+    background-color: white;
+    width: 47vh;
+    margin-top: 9rem;
+    text-align: center;
+    border-radius: 1rem;
+}
+.image{
+    width: 40vh;
+    margin: 1rem;
+    border-radius: 1rem;
+}
+p{
+ opacity:0.7;
+}
